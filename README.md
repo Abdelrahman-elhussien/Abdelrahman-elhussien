@@ -9,15 +9,25 @@ I’m Abdelrahman Elhussien — a Computer and Communication Engineering undergr
 🚀 PROJECTS I’VE BUILT
 
 1- Emotion Recognition (CV) – Real-time emotion detection using ResNet-50 + OpenCV.
+
 2- Spam Email Detection (NLP) – Text classification with Multinomial Naive Bayes.
+
 3- Spam Call Detection – Supervised ML model for identifying fraudulent calls.
+
 4- GANs (Generative AI) – Built a DCGAN to generate realistic cat images.
+
 5- Hand Gesture Recognition (CNNs) – Detecting hand gestures with deep learning.
+
 6- Face Recognition (CNNs) – Real-time face identification.
+
 7- Animal Classification (CNNs) – Multi-class image recognition.
+
 8- Traffic Sign Recognition (CNNs) – Road sign classification for autonomous driving.
+
 9- Random Forest Classifier – Ensemble learning for predictions.
+
 10- Linear & Logistic Regression – Core ML models from scratch.
+
 11- K-Means & KNN – Clustering & classification algorithms.
 
 📌 All available here → [**Projects Repository**](https://github.com/Abdelrahman-elhussien/Projects) *(pinned)*  
