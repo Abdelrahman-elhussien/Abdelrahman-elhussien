@@ -1,22 +1,24 @@
-# 👋 HELLO THERE
+👋 HELLO THERE
 
-I’m **Abdelrahman Elhussien** — a Computer and Communication engineer and learner exploring **Computer Science, AI, and Problem Solving**.  
+I’m Abdelrahman Elhussien — a Computer and Communication Engineering undergraduate passionate about Machine Learning, Computer Vision, and Problem Solving.
 
-🎓 Undergraduate Computer Science Student  
-🧠 Interested in **Machine Learning, Data Science, and Software Engineering**  
-💡 Curious, ambitious, and always striving to improve my skills  
+🎓 Undergraduate Computer Science Student
+🧠 Interested in AI, Data Science, and Software Engineering
+💡 I enjoy building models that turn theory into real-world impact
 
----
+🚀 PROJECTS I’VE BUILT
 
-# 🚀 PROJECTS I’VE BUILT
-
-- 🧮 **Linear Regression & Logistic Regression** – fundamental ML models  
-- 🔍 **K-Means & KNN** – clustering & classification from scratch  
-- 🌳 **Random Forests** – ensemble learning for predictions  
-- ✋ **Hand Gesture Recognition (CNNs)**  
-- 🙂 **Face Recognition (CNNs)**  
-- 🐶 **Animal Classification (CNNs)**  
-- 🚦 **Traffic Sign Recognition (CNNs)**  
+1- Emotion Recognition (CV) – Real-time emotion detection using ResNet-50 + OpenCV.
+2- Spam Email Detection (NLP) – Text classification with Multinomial Naive Bayes.
+3- Spam Call Detection – Supervised ML model for identifying fraudulent calls.
+4- GANs (Generative AI) – Built a DCGAN to generate realistic cat images.
+5- Hand Gesture Recognition (CNNs) – Detecting hand gestures with deep learning.
+6- Face Recognition (CNNs) – Real-time face identification.
+7- Animal Classification (CNNs) – Multi-class image recognition.
+8- Traffic Sign Recognition (CNNs) – Road sign classification for autonomous driving.
+9- Random Forest Classifier – Ensemble learning for predictions.
+10- Linear & Logistic Regression – Core ML models from scratch.
+11- K-Means & KNN – Clustering & classification algorithms.
 
 📌 All available here → [**Projects Repository**](https://github.com/Abdelrahman-elhussien/Projects) *(pinned)*  
 
@@ -30,13 +32,9 @@ I’m **Abdelrahman Elhussien** — a Computer and Communication engineer and le
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>  
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>  
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>  
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
 </p>  
