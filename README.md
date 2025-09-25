@@ -21,6 +21,7 @@ I’m **Abdelrahman Elhussien** — a Computer and Communication Engineering und
 9- **Random Forest Classifier** – Ensemble learning for predictions.  
 10- **Linear & Logistic Regression** – Core ML models from scratch.  
 11- **K-Means & KNN** – Clustering & classification algorithms.  
+12- **Random Forest** – For Heart Disease classification .  
 
 📌 All available here → [**Projects Repository**](https://github.com/Abdelrahman-elhussien/Projects) *(pinned)*  
 
