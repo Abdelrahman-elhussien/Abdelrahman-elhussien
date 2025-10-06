@@ -1,6 +1,6 @@
 # 👋 **HELLO THERE**
 
-I’m **Abdelrahman Elhussien** — a Computer and Communication Engineering undergraduate passionate about **Machine Learning, Computer Vision, and Problem Solving**.  
+I’m **Abdelrahman Elhussien**, a Computer and Communication Engineering undergraduate passionate about **Machine Learning, Computer Vision, and Problem Solving**.  
 
 🎓 **Undergraduate Computer Science Student**  
 🧠 **Interested in AI, Data Science, and Software Engineering**  
